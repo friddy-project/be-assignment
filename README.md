@@ -9,15 +9,18 @@
   - mongoDB 
   - socket.io 
   
-  to provide :- 
-    1. A resource message model API with web sockets. 
-    2. The authentication should be done using JWT authentication, it's very recommended to  use a third-party for the authentication like passport. 
-    3. We also need to log the user activity on the application: 
+  to provide : 
+  
+  1. A resource message model API with web sockets. 
+    
+  2. The authentication should be done using JWT authentication, it's very recommended to  use a third-party for the authentication like passport. 
+    
+  3. We also need to log the user activity on the application: 
       - Session start/end date time. 
       - Interactions logs. 
 
 
-# Optional Criteria:
+### Optional Criteria:
 
 - Your ability to design documentation and articulation of your design throughout the implementation (use any documentation methods e.g. UML diagrams, or DDD diagrams to show your design, and call flow using simple design tools e.g. draw.io or websequencediagrams.com).
 
@@ -28,7 +31,7 @@
 - The philosophy and simplicity approach employed to reduce technical debt and improve the maintainability of the code.
 
 
-# N.B 
+### N.B 
 ▪ The Delivery should be a public Git repository URL with README.md file describing the  system and its dependencies.
 
 
